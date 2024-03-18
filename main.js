@@ -1,0 +1,1 @@
+var img = [ 'image/banner8.jpg' ,  " " , " "] 
